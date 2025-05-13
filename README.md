@@ -2,6 +2,8 @@
 
 A simple web app that converts raw biometric time log data (from `.txt` files) from Sentry Local into a clean `.csv` file with formatted **12-hour time (AM/PM)** — no seconds included.
 
+To be use for Voyadores Web App for manual timelogs uploading.
+
 ## 📋 Features
 
 - 📤 Upload plain `.txt` time log files from Sentry Local
